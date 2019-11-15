@@ -1,3 +1,3 @@
 # git-basics
-Education Project
-Learning how to use Git & GitHub
+Class Project
+Teaching myself how to use Git & GitHub
